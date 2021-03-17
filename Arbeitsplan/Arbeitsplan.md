@@ -1,5 +1,6 @@
 | Task                                                       | Deadline      | Abhängigkeiten                                    | Verantwortliche Person/en |
 |------------------------------------------------------------|---------------|---------------------------------------------------|---------------------------|
+| Präsentation vorbereiten                                              | 11. März 2021 | keine                                             | Marc                      |
 | Ruby Tutorial                                              | 22. März 2021 | keine                                             | alle                      |
 | Rails getting started Guide                                | 22. März 2021 | Zuerst sollte das Ruby Tutorial erledigt werden   | alle                      |
 | Ember Tutorial                                             | 22. März 2021 | keine                                             | alle                      |
