@@ -30,9 +30,7 @@ Die Kommunikation in der Gruppe war gut, aber verbessern kann man immer.
 
 Alle haben sich Mühe gegeben, für manche war es aber eine grössere Herausforderung als für andere. 
 
-##### • Gab es ”Leerläufe“ oder Wartezeiten aufgrund der Abhängigkeiten zwischen
-
-##### den Tasks?
+##### • Gab es ”Leerläufe“ oder Wartezeiten aufgrund der Abhängigkeiten zwischen den Tasks?
 
 Nein, es gab fast keine Abhängigkeit zwischen den Tasks.
 
