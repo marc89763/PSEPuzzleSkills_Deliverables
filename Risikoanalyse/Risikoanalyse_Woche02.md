@@ -1,0 +1,8 @@
+| Risiko                           | Eintritts-WSK | Gewichtung | Gegenmassnahmen                                              |
+| -------------------------------- | ------------- | ---------- | ------------------------------------------------------------ |
+| Deadlines von Tasks verpassen    | Mittel        | Mittel     | Kunden informieren. Zeit einplanen, um die Tasks nachzuarbeiten. Mehr Zeit einplanen für die nächsten Tasks. |
+| Deliverables nicht rechtzeitig   | Niedrig       | Mittel     | Assistent informieren. Neues Datum setzen, um die Deliverables nachzuliefern. Mehr Zeit einplanen für die nächsten Deliverables. |
+| Technische Probleme              | Mittel        | Hoch       | Mehr Zeit einplanen, um diese zu lösen und Experten konsultieren. |
+| Ausfall von Teammitglied         | Niedrig       | Hoch       | Nach Ersatzmitglied suchen oder mehr Arbeitszeit pro Teammitglied einplanen. |
+| Praktische Anwendung der Theorie | Mittel        | Hoch       | Die Probleme bei der Pair Programming lösen und entwickeln gemeinsam. Wenn es nicht ausreicht, überdenken mit dem technischen Berater. |
+
