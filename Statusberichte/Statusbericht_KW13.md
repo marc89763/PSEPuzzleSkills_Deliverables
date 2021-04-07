@@ -16,7 +16,9 @@ Michelle konnte das Projekt auf ihrem Computer zum Laufen bringen.
 
 Marc konnte die Punkte *Ruby Update* und *CV Export — Add company name to filename* vollständig beenden. Der zweite Punkt hat dabei mehr Arbeit beansprucht als geplant, da noch Probleme, die aufgrund eines Ruby on Rails Upgrade der letzten Woche aufgetreten sind, behoben werden mussten. Das *EmberJS Update* sollte auch fertig sein und wartet momentan noch auf einen Review seitens Puzzle ITC.
 
-Ansicht der Tatsache, dass nächste Woche vorlesungsfrei ist und doch schon ein gewisser Fortschritt vorhanden ist, gehe ich davon aus, dass momentan das Projekt auf gutem Wege ist. Emre hatte in den letzten sieben Tagen leider keine Zeit am Projekt zu arbeiten.
+Emre hatte in den letzten sieben Tagen leider keine Zeit am Projekt zu arbeiten.
+
+Ansicht der Tatsache, dass nächste Woche vorlesungsfrei ist und doch schon ein gewisser Fortschritt vorhanden ist, gehe ich davon aus, dass momentan das Projekt auf gutem Wege ist.
 
 **Status** 
 
