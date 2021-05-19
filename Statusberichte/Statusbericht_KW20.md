@@ -8,11 +8,11 @@
 - Fix tests after adding translations ✅
 - Skill-Search interest filter ✅
 - Remove deprecated-sort-by-year
-- Sorting while editing
+- Sorting while editing ✅
 
 **Statusbericht** 
 
-Emre konnte den Task *Follow Up Fix frontend test deprecations* abschliessen und hat an *Sorting while editing* und *Follow-Up: Skillset Read-Only* weitergearbeitet.
+Emre konnte die Tasks *Follow Up Fix frontend test deprecations* und *Sorting while editing* abschliessen und hat an *Follow-Up: Skillset Read-Only* weitergearbeitet.
 
 Michelle hat am Task *Remove deprecated-sort-by-year* weitergearbeitet, hat aber noch mit Schwierigkeiten zu kämpfen.
 
